@@ -8,5 +8,3 @@
 | `Nombre`        | NVARCHAR      | 20    | ❌  | ❌  | ❌   | ❌     | -             | -                                | Nombre completo del cliente             |
 | `Apellido1`          | NVARCHAR          | 20      | ❌  | ❌  | ❌   | ❌     | -         | -                                | Apellido del cliente                        |
 | `Apellido2`        | VARCHAR      | 20    | ❌  | ❌  | ❌   | ❌     | -                   | -                                | Apellido 2 del cliente                      |
-| `IdCiudad`      | INT          | -      | ❌  | ✅  | ❌   | ❌     | > 0                                        | Ciudades(IdCiudad)               |    |
-
