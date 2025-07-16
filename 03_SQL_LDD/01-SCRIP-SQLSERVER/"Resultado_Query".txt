@@ -1,0 +1,4 @@
+|Id|nombre|estatus|
+|---|---|---|
+|1|Carnes|D|
+|1|Carnes|A|
